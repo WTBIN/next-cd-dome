@@ -21,6 +21,9 @@ const Home: NextPage = () => {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+        <p className={styles.description}>
+         cd tag 1
+        </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
